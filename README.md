@@ -23,6 +23,7 @@ git clone https://github.com/binish78619/SMS.git.
 
 5.Run following command in Visual Studio Code terminal
 npm install
+
 ng add @angular/material.
 
 6.Run `ng serve` for a dev server. 
