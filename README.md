@@ -13,17 +13,26 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Steps To Run
 
 1.Use Visual Studio Code or any IDE that supports Angular.
+
 2.Open Command Prompt and give path of your workspace.
+
 3.Clone the project using following command
-git clone https://github.com/binish78619/SMS.git
+git clone https://github.com/binish78619/SMS.git.
+
 4.Open Visual Studio Code and Open the Project in that.
+
 5.Run following command in Visual Studio Code terminal
 npm install
-ng add @angular/material
+ng add @angular/material.
+
 6.Run `ng serve` for a dev server. 
+
 7.Use Eclipse Photon for server part.
+
 8.Import folder springpartwork.
+
 9.Run the server.
+
 10.Navigate to `http://localhost:4200/`.
 
 ## Code scaffolding
